@@ -1,0 +1,7 @@
+.img{
+    width: 250px;
+    transition: 0.5;
+}
+.photo:hover{
+    transform: scale(1.1);
+}
