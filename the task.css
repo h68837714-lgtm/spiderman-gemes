@@ -1,0 +1,47 @@
+.div-1{ background-color: gold;
+margin: 0px 0px 20px 100px;
+border-width: 30px;
+border-color:black;
+border-style:groove;
+padding:0px 0px 0px 10px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div-2{ background-color:black;
+    margin: 0px 100px 20px 100px;
+    border-width: 10px;
+    border-color:gold;
+    border-style:dashed;
+    padding:0px 700px 0px 700px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .div-3{ background-color:chocolate;
+        margin: 0px 100px 0px 0px;
+        border-width: 15px;
+        border-color:gold;
+        border-style:double;
+        padding:0px 0px 0px 1690px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: white;
+        }
+        .big-div{background-color:bisque;}
+
+.hassan{display: inline-block;}
+
+        .hassan-2{color: blue; 
+        display: inline-block;}
+
+        .hassan-3{color:darkorange;
+            display: inline-block;}
+
+        .hassan-4{color:cornflowerblue;
+            display: inline-block;}
+
+        .hassan-5{color:darkgoldenrod;
+            display: inline-block;}
+
+        .hassan-6{color:darkslateblue;
+            display: inline-block;}
+            
+        .hassan-7{color:brown;
+            display: inline-block;}
